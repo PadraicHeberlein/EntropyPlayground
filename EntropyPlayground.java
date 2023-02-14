@@ -129,7 +129,7 @@ public class EntropyPlayground
 	// |	String wrap(String bitString, int amount)  |
 	// -------------------------------------------------
 	// | If the amount to wrap is greater, then mods   |
-	// | oout by the length of the bit string and the  |
+	// | out by the length of the bit string and the   |
 	// | wraps the first 'amount' number of bits by    |
 	// | appending them to the end of the bit string   |
 	// -------------------------------------------------
